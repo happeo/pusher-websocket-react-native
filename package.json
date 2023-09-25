@@ -1,6 +1,6 @@
 {
-  "name": "@pusher/pusher-websocket-react-native",
-  "version": "1.2.2",
+  "name": "@universe/pusher-websocket-react-native",
+  "version": "1.2.2-happeo.1",
   "description": "Pusher Channels Client for React Native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -36,7 +36,7 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/pusher/pusher-websocket-react-native",
+  "repository": "https://github.com/happeo/pusher-websocket-react-native",
   "author": "Pusher <info@pusher.com> (https://pusher.com)",
   "license": "MIT",
   "bugs": {
@@ -44,7 +44,7 @@
   },
   "homepage": "https://github.com/pusher/pusher-websocket-react-native#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://universe.jfrog.io/universe/api/npm/npm-local/"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^17.2.0",
@@ -143,5 +143,6 @@
         }
       ]
     ]
-  }
+  },
+  "packageManager": "yarn@1.22.19"
 }
