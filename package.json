@@ -1,6 +1,6 @@
 {
   "name": "@universe/pusher-websocket-react-native",
-  "version": "1.2.3-happeo.1",
+  "version": "1.2.3",
   "description": "Pusher Channels Client for React Native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
